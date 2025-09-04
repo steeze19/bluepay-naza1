@@ -9,11 +9,11 @@ const Platform = () => {
   const navigate = useNavigate();
   
   const handleJoinTelegram = () => {
-    window.open("https://t.me/+Bit3dq-VJA4xMDNk", "_blank");
+    window.open("https://t.me/+nNCYUecApvEwZGI", "_blank");
   };
   
   const handleJoinWhatsapp = () => {
-    window.open("https://chat.whatsapp.com/JzoLF2YSvOH5hqXvBEqBDJ?mode=ac_t", "_blank");
+    window.open("https://chat.whatsapp.com/F3vbgOl3MrSIsgiIpkpD9m?mode=ems_copy_c", "_blank");
   };
 
   return (
