@@ -9,7 +9,7 @@ const Platform = () => {
   const navigate = useNavigate();
   
   const handleJoinTelegram = () => {
-    window.open("https://t.me/+nNCYUecApvEwZGI", "_blank");
+    window.open("https://t.me/+nNCYUecApvEwZGI8", "_blank");
   };
   
   const handleJoinWhatsapp = () => {
